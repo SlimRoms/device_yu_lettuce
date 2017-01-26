@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5aaae553_31126b63",
+        "filename": "overlay/frameworks/opt/slim/res/res/values/config.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 31,
+      "author": {
+        "id": 1000043
+      },
+      "writtenOn": "2017-01-26T20:25:56Z",
+      "side": 1,
+      "message": "remove this, we don\u0027t remap volume keys",
+      "range": {
+        "startLine": 31,
+        "startChar": 46,
+        "endLine": 31,
+        "endChar": 48
+      },
+      "revId": "4dcad8217bc2f86ec80bd907ebd2f16863f13acb",
+      "serverId": "f8201d64-d729-4630-b91d-5f8be02869f0",
+      "unresolved": false
+    }
+  ]
+}
